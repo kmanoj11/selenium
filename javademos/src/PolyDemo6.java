@@ -17,10 +17,10 @@ public class PolyDemo6
  }
  void funA(B b)
  {
-	 System.out.println("class A args of PolyDemo6");
+	 System.out.println("class B args of PolyDemo6");
  }
  void funA(C c)
  {
-	 System.out.println("class A args of PolyDemo6");
+	 System.out.println("class C args of PolyDemo6");
  }
 }
