@@ -26,5 +26,6 @@ public class PolyDemo6A
 	 {
 		 System.out.println("class C args of PolyDemo6");
 		 System.out.println(c);
+		 System.out.println("manoj");
 	 }
 }
